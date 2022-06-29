@@ -1,0 +1,52 @@
+{
+  "allCashTillClosures": {
+    "metadatas": {
+      "pagination": {
+        "nextCursor": null,
+        "totalItems": 4
+      }
+    },
+    "cashTills": [
+      {
+        "id": "1",
+        "ulid": "123abcd",
+        "androidId": "CHAR",
+        "openingDate": "1656534729645000",
+        "closingDate": "1656534810705000",
+        "status": "CLOSED",
+        "provisorAmount": "20000",
+        "totalAmount": "30000"
+      },
+      {
+        "id": "2",
+        "ulid": "123abcde",
+        "androidId": "CHAR",
+        "openingDate": "1656534729645000",
+        "closingDate": "1656534810705000",
+        "status": "CLOSED",
+        "provisorAmount": "30000",
+        "totalAmount": "40000"
+      },
+      {
+        "id": "3",
+        "ulid": "123abcdf",
+        "androidId": "CHAR",
+        "openingDate": "1656534729645000",
+        "closingDate": "1656534810705000",
+        "status": "CLOSED",
+        "provisorAmount": "40000",
+        "totalAmount": "50000"
+      },
+      {
+        "id": "4",
+        "ulid": "123abcdefg",
+        "androidId": "CHAR",
+        "openingDate": "1656534729645000",
+        "closingDate": "1656534810705000",
+        "status": "CLOSED",
+        "provisorAmount": "60000",
+        "totalAmount": "70000"
+      }
+    ]
+  }
+}
