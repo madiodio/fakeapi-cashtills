@@ -15,8 +15,8 @@
           "lastname": "GETRAN"
         },
         "androidId": "CHAR",
-        "openingDate": "1656534729645000",
-        "closingDate": "1656534810705000",
+        "openingDate": "1656539888383",
+        "closingDate": "1656539967415",
         "status": "CLOSED",
         "provisorAmount": "20000",
         "totalAmount": "30000"
@@ -29,8 +29,8 @@
           "lastname": "GETRAN"
         },
         "androidId": "CHAR",
-        "openingDate": "1656534729645000",
-        "closingDate": "1656534810705000",
+        "openingDate": "1656539888383",
+        "closingDate": "1656539967415",
         "status": "CLOSED",
         "provisorAmount": "30000",
         "totalAmount": "40000"
@@ -43,8 +43,8 @@
           "lastname": "SOCIOTRAN"
         },
         "androidId": "CHAR",
-        "openingDate": "1656534729645000",
-        "closingDate": "1656534810705000",
+        "openingDate": "1656539888383",
+        "closingDate": "1656539967415",
         "status": "CLOSED",
         "provisorAmount": "40000",
         "totalAmount": "50000"
@@ -57,8 +57,8 @@
           "lastname": "SOCIOTRAN"
         },
         "androidId": "CHAR",
-        "openingDate": "1656534729645000",
-        "closingDate": "1656534810705000",
+        "openingDate": "1656539888383",
+        "closingDate": "1656539967415",
         "status": "CLOSED",
         "provisorAmount": "60000",
         "totalAmount": "70000"
