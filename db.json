@@ -15,11 +15,11 @@
           "lastname": "GETRAN"
         },
         "androidId": "CHAR",
-        "openingDate": "1656539888383",
-        "closingDate": "1656539967415",
+        "openingDate": 1656539888383,
+        "closingDate": 1656539967415,
         "status": "CLOSED",
-        "provisorAmount": "20000",
-        "totalAmount": "30000"
+        "provisorAmount": 20000,
+        "totalAmount": 30000
       },
       {
         "id": "2",
@@ -29,25 +29,25 @@
           "lastname": "GETRAN"
         },
         "androidId": "CHAR",
-        "openingDate": "1656539888383",
-        "closingDate": "1656539967415",
+        "openingDate": 1656539888383,
+        "closingDate": 1656539967415,
         "status": "CLOSED",
-        "provisorAmount": "30000",
-        "totalAmount": "40000"
+        "provisorAmount": 30000,
+        "totalAmount": 40000
       },
       {
         "id": "3",
-        "ulid": "123abcdf",
+        "ulid": "123abcdef",
         "officer": {
           "firstname": "Israël",
           "lastname": "SOCIOTRAN"
         },
         "androidId": "CHAR",
-        "openingDate": "1656539888383",
-        "closingDate": "1656539967415",
+        "openingDate": 1656539888383,
+        "closingDate": 1656539967415,
         "status": "CLOSED",
-        "provisorAmount": "40000",
-        "totalAmount": "50000"
+        "provisorAmount": 40000,
+        "totalAmount": 50000
       },
       {
         "id": "4",
@@ -57,11 +57,11 @@
           "lastname": "SOCIOTRAN"
         },
         "androidId": "CHAR",
-        "openingDate": "1656539888383",
-        "closingDate": "1656539967415",
+        "openingDate": 1656539888383,
+        "closingDate": 1656539967415,
         "status": "CLOSED",
-        "provisorAmount": "60000",
-        "totalAmount": "70000"
+        "provisorAmount": 60000,
+        "totalAmount": 70000
       }
     ]
   }
