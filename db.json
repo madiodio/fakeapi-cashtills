@@ -10,6 +10,10 @@
       {
         "id": "1",
         "ulid": "123abcd",
+        "officer": {
+          "firstname": "Mariam",
+          "lastname": "GETRAN"
+        },
         "androidId": "CHAR",
         "openingDate": "1656534729645000",
         "closingDate": "1656534810705000",
@@ -20,6 +24,10 @@
       {
         "id": "2",
         "ulid": "123abcde",
+        "officer": {
+          "firstname": "Mamadou",
+          "lastname": "GETRAN"
+        },
         "androidId": "CHAR",
         "openingDate": "1656534729645000",
         "closingDate": "1656534810705000",
@@ -30,6 +38,10 @@
       {
         "id": "3",
         "ulid": "123abcdf",
+        "officer": {
+          "firstname": "Israël",
+          "lastname": "SOCIOTRAN"
+        },
         "androidId": "CHAR",
         "openingDate": "1656534729645000",
         "closingDate": "1656534810705000",
@@ -40,6 +52,10 @@
       {
         "id": "4",
         "ulid": "123abcdefg",
+        "officer": {
+          "firstname": "Abdoulaye",
+          "lastname": "SOCIOTRAN"
+        },
         "androidId": "CHAR",
         "openingDate": "1656534729645000",
         "closingDate": "1656534810705000",
