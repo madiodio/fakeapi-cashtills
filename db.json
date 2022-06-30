@@ -1,11 +1,5 @@
 {
   "allCashTillClosures": {
-    "metadatas": {
-      "pagination": {
-        "nextCursor": null,
-        "totalItems": 4
-      }
-    },
     "cashTills": [
       {
         "id": "1",
@@ -63,6 +57,12 @@
         "provisorAmount": 60000,
         "totalAmount": 70000
       }
-    ]
+    ],
+    "metadatas": {
+      "pagination": {
+        "nextCursor": null,
+        "totalItems": 4
+      }
+    }
   }
 }
