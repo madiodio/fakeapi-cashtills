@@ -8,6 +8,7 @@
           "firstname": "Mariam",
           "lastname": "GETRAN"
         },
+        "officeName": "Gare d'Abidjan",
         "androidId": "CHAR",
         "openingDate": 1656539888383,
         "closingDate": 1656539967415,
@@ -22,6 +23,7 @@
           "firstname": "Mamadou",
           "lastname": "GETRAN"
         },
+        "officeName": "Gare de Yamoussoukro",
         "androidId": "CHAR",
         "openingDate": 1656539888383,
         "closingDate": 1656539967415,
@@ -36,6 +38,7 @@
           "firstname": "Israël",
           "lastname": "SOCIOTRAN"
         },
+        "officeName": "Gare de Bouaké",
         "androidId": "CHAR",
         "openingDate": 1656539888383,
         "closingDate": 1656539967415,
@@ -50,6 +53,7 @@
           "firstname": "Abdoulaye",
           "lastname": "SOCIOTRAN"
         },
+        "officeName": "Abidjan/Adjamé",
         "androidId": "CHAR",
         "openingDate": 1656539888383,
         "closingDate": 1656539967415,
