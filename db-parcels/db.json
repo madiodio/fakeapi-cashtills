@@ -1,0 +1,70 @@
+{
+  "cashTills": [
+    {
+      "id": "1",
+      "ulid": "123abcd",
+      "officer": {
+        "firstname": "Mariam",
+        "lastname": "GETRAN"
+      },
+      "officeName": "Gare d'Abidjan",
+      "androidId": "CHAR",
+      "openingDate": 1656539888383,
+      "closingDate": 1656539967415,
+      "status": "CLOSED",
+      "provisorAmount": 20000,
+      "totalAmount": 30000
+    },
+    {
+      "id": "2",
+      "ulid": "123abcde",
+      "officer": {
+        "firstname": "Mamadou",
+        "lastname": "GETRAN"
+      },
+      "officeName": "Gare de Yamoussoukro",
+      "androidId": "CHAR",
+      "openingDate": 1656539888383,
+      "closingDate": 1656539967415,
+      "status": "CLOSED",
+      "provisorAmount": 30000,
+      "totalAmount": 40000
+    },
+    {
+      "id": "3",
+      "ulid": "123abcdef",
+      "officer": {
+        "firstname": "Israël",
+        "lastname": "SOCIOTRAN"
+      },
+      "officeName": "Gare de Bouaké",
+      "androidId": "CHAR",
+      "openingDate": 1656539888383,
+      "closingDate": 1656539967415,
+      "status": "CLOSED",
+      "provisorAmount": 40000,
+      "totalAmount": 50000
+    },
+    {
+      "id": "4",
+      "ulid": "123abcdefg",
+      "officer": {
+        "firstname": "Abdoulaye",
+        "lastname": "SOCIOTRAN"
+      },
+      "officeName": "Abidjan/Adjamé",
+      "androidId": "CHAR",
+      "openingDate": 1656539888383,
+      "closingDate": 1656539967415,
+      "status": "CLOSED",
+      "provisorAmount": 60000,
+      "totalAmount": 70000
+    }
+  ],
+  "metadatas": {
+    "pagination": {
+      "nextCursor": null,
+      "totalItems": 4
+    }
+  }
+}
